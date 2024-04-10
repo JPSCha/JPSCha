@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm João Paulo Suzuki</h1>
-- 🔭 I’m currently working on **improving my programming skills**
 
-- 🌱 I’m currently learning **Cybersecurity** and **Python**
+- 🔭 I’m currently working on **My personal projects**
+
+- 🌱 I’m currently learning **Golang** 
 
 - 👯 I’m looking to collaborate on **Startups and projects**
 
