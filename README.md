@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm João Paulo Suzuki</h1>
 
-- 🔭 I’m currently working on **My personal projects**
+- 🔭 I’m currently working on **improving my coding skills**
 
 - 🌱 I’m currently learning **Golang** 
 
 - 👯 I’m looking to collaborate on **Startups and projects**
 
-- 💬 Ask me about **Kali linux, pentest and python**
+- 💬 Ask me about **Linux, cyberseucirty and python**
 
 - 📫 How to reach me **joaopaulosuskichaves@gmail.com**
 
