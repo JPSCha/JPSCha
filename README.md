@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Startups and projects**
 
-- 💬 Ask me about **Linux, cyberseucirty, go and python**
+- 💬 Ask me about **Linux, Cybersecurity, Go and Python**
 
 - 📫 How to reach me **joaopaulosuskichaves@gmail.com**
 
